@@ -17,10 +17,6 @@
 ## 📂 File Included
 - `covid_tableau_dashboard.twbx` – Tableau Packaged Workbook
 
-## 🌐 Live Dashboard
-[View on Tableau Public](https://public.tableau.com/views/YourDashboardLinkHere)  
-*(Replace with your real link after publishing)*
-
 ## 👤 Created by
 Khushi Tyagi
 
